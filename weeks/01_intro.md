@@ -28,11 +28,9 @@ We aim to create distributed instruments for computed expression.
 ## App Examples
 
 - for MoLab
-
   - [MoGallery](https://github.com/molab-itp/98-MoGallery)
 
 - DICE Platform
-
   - [DICECPU](https://johnhenrythompson.com/johnhenrythompson/3-dice.html)
 
 - Other apps
@@ -47,7 +45,6 @@ We aim to create distributed instruments for computed expression.
 - [Swift Programming history](<https://en.wikipedia.org/wiki/Swift_(programming_language)>)
 - [changes - with playground demos](https://www.hackingwithswift.com/swift)
 - an evolving language:
-
   - 2025 Swift 6.1 March 31, 2025
   - 2024 Swift 6.0 September 16, 2024
   <!-- - 2024 Swift 5.10.1 June 5, 2024 -->
@@ -97,19 +94,16 @@ We aim to create distributed instruments for computed expression.
 learn swift programming fundamentals by week 3
 
 - [docs.swift.org](https://docs.swift.org/swift-book/documentation/the-swift-programming-language)
-
   - begin with the tour
   - absorb language-guide over time
   - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
-
   - Days 1 - 14
 
 - [linkedin swift-5-essential-training](https://www.linkedin.com/learning/swift-5-essential-training)
 
 - kodeco.com
-
   - [swift-fundamentals](https://www.kodeco.com/28092971-programming-in-swift-fundamentals)
   - [swift-functions-types](https://www.kodeco.com/28433240-programming-in-swift-functions-types)
 
@@ -132,7 +126,6 @@ consider doing over the next weeks in parallel with our course. pick one.
 - [This is aimed at people who want to learn Swift quickly](https://www.hackingwithswift.com/sixty)
 
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 14 - 100
-
   - [github hackingwithswift](https://github.com/twostraws/hackingwithswift)
   - project based, select the project(s) that you find interesting
 
@@ -173,7 +166,7 @@ Course example repos
 
 - [github.com/molab-itp](https://github.com/molab-itp)
 
-- [homework page](https://github.com/molab-itp/content-2025-09/wiki)
+- [homework page](https://github.com/molab-itp/content-2026-itp/wiki)
 
 ## In Class Exercises
 
@@ -194,21 +187,18 @@ Course example repos
 
 - opt-in to public exposure,
   pick your [nom de plume / pen name / pseudonym](https://en.wikipedia.org/wiki/Pen_name)
-  for your [student wiki page](https://github.com/molab-itp/content-2025-09/wiki)
+  for your [student wiki page](https://github.com/molab-itp/content-2026-itp/wiki)
 - add your student wiki page and write:
-
   - what programming languages have you used? how much?
   - what is your favorite mobile app and why?
   - if you have a concept for a final project write a short description
   -
 
 - use github desktop to clone these repos:
-
   - [01-Javascript-to-Swift](https://github.com/molab-itp/01-Javascript-to-Swift)
   - [01-Playground](https://github.com/molab-itp/01-Playground)
 
 - create a git repo for your class work, name it **molab-2025-09-yourNickName**
-
   - make sure README.md option is checked
   - add **jht9629-nyu** as a collaborator
   - add .gitignore
@@ -225,7 +215,7 @@ Course example repos
 
 - commit and push the updates to your repo
 
-- add a link to your playground on [wiki home page](https://github.com/molab-itp/content-2025-09/wiki#week-01-homework)
+- add a link to your playground on [wiki home page](https://github.com/molab-itp/content-2026-itp/wiki#week-01-homework)
 
 ## Homework Week01
 
@@ -270,7 +260,7 @@ option 4:
 - example: [01-Playground generative random](https://github.com/molab-itp/01-Playground/blob/main/01-Playground.playground/Pages/generative%20random.xcplaygroundpage/Contents.swift)
 - store the playground in your classwork repo in folder Week01 and update the repo
 
-- add a link to your playground on the [wiki home page](https://github.com/molab-itp/content-2025-09/wiki#week-01-homework)
+- add a link to your playground on the [wiki home page](https://github.com/molab-itp/content-2026-itp/wiki#week-01-homework)
 
 - document issues/errors in comments
 - save source of any errors
@@ -304,7 +294,7 @@ cd ~/Documents
 
 # clone local copy of wiki
 
-git clone https://github.com/molab-itp/content-2025-09.wiki.git
+git clone https://github.com/molab-itp/content-2026-itp.wiki.git
 
 ```-->
 

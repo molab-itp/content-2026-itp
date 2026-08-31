@@ -15,7 +15,6 @@
 ### Refactoring Exercise
 
 - [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
-
   - for repo, select
 
 - manual refactor
@@ -44,7 +43,6 @@
 ## MoGallery App
 
 - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
-
   - private repo with MoGallery/MoGallery/GoogleService-Info.plist
   - run on the your iOS device to access firebase project configured for this class
   - [MoLobby](https://github.com/molab-itp/98-MoGallery-Private/tree/main/MoLobby)
@@ -65,7 +63,6 @@
 - [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)
 
 - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui)
-
   - [repo for HackingWithSwift book](https://github.com/twostraws/HackingWithSwift)
 
 - [Bookworm: Introduction](https://www.hackingwithswift.com/books/ios-swiftui/bookworm-introduction) "Use Core Data to build an app that tracks books you like"
@@ -103,14 +100,12 @@
 ## Homework Week10
 
 - write your final project proposal on your wiki page
-
   - describe your final project
   - include week by week work plan
 
 - create a Week10 folder for your project
 - OR a create public github repo and add link to it here:
-- [wiki home page week10](https://github.com/molab-itp/content-2025-09/wiki#week-10-homework)
-
+- [wiki home page week10](https://github.com/molab-itp/content-2026-itp/wiki#week-10-homework)
   - update your wiki page with your
     - progress | problems | plans | questions
 

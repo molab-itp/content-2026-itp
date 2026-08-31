@@ -17,7 +17,6 @@
 - [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
 
 - [docs.swift.org - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
-
   - [Optional-Binding - example entry](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics#Optional-Binding)
 
 - [to learn Swift quickly or use to review](https://www.hackingwithswift.com/sixty)
@@ -30,7 +29,6 @@
 ### Finder config
 
 - finder preference to show full file names
-
   - settings / advanced
 
 - finder command-/ show available disk space
@@ -40,7 +38,7 @@
 
 ### Terminal basics
 
-- Use Terminal to clone [course wiki](https://github.com/molab-itp/content-2025-09/wiki)
+- Use Terminal to clone [course wiki](https://github.com/molab-itp/content-2026-itp/wiki)
 
 ```
 # script to clone the class wiki
@@ -50,7 +48,7 @@
 cd ~/Documents
 
 # clone local copy of wiki
-git clone https://github.com/molab-itp/content-2025-09.wiki.git
+git clone https://github.com/molab-itp/content-2026-itp.wiki.git
 
 # basic commands
 
@@ -92,16 +90,13 @@ node_modules
 ## new stuff
 
 - animals in ascii
-
   - [02-Ascii-Play](https://github.com/molab-itp/02-Ascii-Play)
 
 - breakout rendering options for unicode and system images
-
   - [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground)
   - reading the docs
 
 - swiftui in the playground - creating an icon
-
   - [02-Icon-Image](https://github.com/molab-itp/02-Icon-Image)
 
 ## lab activity
@@ -122,27 +117,22 @@ node_modules
 ### example apps
 
 - [03-About-Me](https://github.com/molab-itp/03-About-Me)
-
   - https://developer.apple.com/tutorials/sample-apps/aboutme
   - using SwiftUI to display information across multiple tab views
 
 - [98-CaptureCameraStorage](https://github.com/molab-itp/98-CaptureCameraStorage)
-
   - Browsing Your Photos - based on Apple Tutorial Tutorial
   - source:
   - [Capturing and Displaying Photos - article](https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos)
 
   - [Uses Playgrounds app](https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt=12)
-
     - Tutorial adapted to Xcode project
       - build to simulator | device
 
 - [Voice-Recorder](https://github.com/molab-itp/06-Voice-Recorder)
-
   - Storage to local file system
 
 - [98-MoGallery](https://github.com/molab-itp/98-MoGallery)
-
   - MoGallery is a mobile app for students to quickly create their own mobile multi user experiences
   - public version required firebase config file
   - private version can be built to access firebase backend
@@ -156,17 +146,14 @@ node_modules
 - create a folder named Week02 in your class repo to store this weeks homework
 
 - Option 1:
-
   - create an Xcode playground that creates an image using ascii text based on the techniques demonstrated in
     [02-Ascii-Play](https://github.com/molab-itp/02-Ascii-Play)
 
 - Option 2:
-
   - create an Xcode playground that makes an 1024x1024 image based on the techniques demonstrated in
     [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground)
 
 - add a link to your Week02 folder on the
-
-  - [wiki home page](https://github.com/molab-itp/content-2025-09/wiki#week-02-homework)
+  - [wiki home page](https://github.com/molab-itp/content-2026-itp/wiki#week-02-homework)
 
   - update your wiki page with any issues

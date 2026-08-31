@@ -97,7 +97,7 @@ At the completion of this course, the student should be able to:
 ## Class Resources
 
 - [class github organization](https://github.com/molab-itp)
-- [class homework wiki](https://github.com/molab-itp/content-2025-09/wiki)
+- [class homework wiki](https://github.com/molab-itp/content-2026-itp/wiki)
 
 ## Extra Support
 

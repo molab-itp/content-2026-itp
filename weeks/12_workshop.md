@@ -27,11 +27,10 @@
   - note how and put a link in your wiki page
 - be prepared to present and discus
 - in class we will
-
   - build your project
   - test your project
 
-- [wiki home page week12](https://github.com/molab-itp/content-2025-09/wiki#week-12-homework)
+- [wiki home page week12](https://github.com/molab-itp/content-2026-itp/wiki#week-12-homework)
 
 - update your wiki page
   - progress | problems| plans | questions

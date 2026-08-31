@@ -52,7 +52,6 @@ more .gitconfig
 - [phase and keyframe animators ](https://developer.apple.com/documentation/swiftui/controlling-the-timing-and-movements-of-your-animations)
 -
 - [How to Pause and Resume Animation ](https://medium.com/@artemiusm/how-to-pause-and-resume-animation-in-swiftui-with-chaining-68003517449f)
-
   - source: https://github.com/artemiusmk/MovieClapper
   - forked here: https://github.com/jht9629-nyu/MovieClapper
 
@@ -67,7 +66,6 @@ more .gitconfig
  -->
 
 - [07-Instafilter](https://github.com/molab-itp/07-Instafilter)
-
   - A photo manipulation program using Core Image filters
   - uses PhotosPicker from import PhotosUI
 
@@ -77,19 +75,16 @@ more .gitconfig
   - uses ImagePicker: UIViewControllerRepresentable to access UIKit PHPickerViewController -->
 
 - [07-PhotoPickBlender](https://github.com/molab-itp/07-PhotoPickBlender)
-
   - use Vision framework VNGeneratePersonSegmentationRequest to blend two photos
   - using legacy api via UIViewControllerRepresentable
 
 - [07-FaceMesh](https://github.com/molab-itp/07-FaceMesh)
-
   - Face Mesh with ARKit and SwiftUI
   - using legacy api via UIViewControllerRepresentable
 
 ### Resources
 
 - [PhotosPicker Apple Sample Code](https://developer.apple.com/documentation/photokit/bringing-photos-picker-to-your-swiftui-app)
-
   - click on pencil to edit profile pict
 
 - [@Observable class - iOS 17](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
@@ -115,7 +110,6 @@ more .gitconfig
 <!-- - [How to obtain photo data/metadata after being picked in PHPickerViewController?](https://developer.apple.com/forums/thread/654898) -->
 
 - [Creates a background color based on the average color of an image](https://github.com/bbaars/UIImageAverageColor)
-
   - [Article](https://medium.com/swlh/swiftui-read-the-average-color-of-an-image-c736adb43000)
 
 - [CoreImageFilterReference ](https://developer.apple.com/library/archive/documentation/GraphicsImaging/Reference/CoreImageFilterReference/index.html)
@@ -133,7 +127,6 @@ more .gitconfig
 ## Example apps
 
 - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui/)
-
   - [Hacking with iOS: SwiftUI Edition - source github repo](https://github.com/twostraws/HackingWithSwift)
     Follow steps to build app or start with completed app and study to adapt to your needs.
 
@@ -162,12 +155,10 @@ Download and verify the sample works before investing your time in further resea
 - Option 1: continue working on past homework
 
 - Option 2: create an app to access or manipulate photos
-
   - you can base it on one of the resources presented in class, adding your own twist
 
 - create a Week07 folder for your project and add link to it here:
-
-  - [wiki home page week07](https://github.com/molab-itp/content-2025-09/wiki#week-07-homework)
+  - [wiki home page week07](https://github.com/molab-itp/content-2026-itp/wiki#week-07-homework)
 
   - update your wiki page with your
     - progress | problems | plans | questions

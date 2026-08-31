@@ -31,7 +31,6 @@
 ## In class exercise
 
 - review researching using custom fonts
-
   - [05-CustomFont](https://github.com/molab-itp/05-CustomFont)
 
 - build BasicNav
@@ -42,7 +41,6 @@
 ## Homework Week05
 
 - Part 1: fundamentals & documentation
-
   - continue working on past homework & keep wiki page up todate
   - make use of office hours and/or coding lab
   - complete Swift Language Fundamentals
@@ -50,13 +48,11 @@
   -
 
 - Part 2: incorporate one of the class demos into your navigation app
-
   - for example, add app storage to your naviation app
   - do this only if you are update on previous homework
 
 - create a Week05 folder for your project and add link to it here:
-
-  - [wiki home page week05](https://github.com/molab-itp/content-2025-09/wiki#week-05-homework)
+  - [wiki home page week05](https://github.com/molab-itp/content-2026-itp/wiki#week-05-homework)
 
   - update your wiki page with your
     - progress | problems | plans | questions

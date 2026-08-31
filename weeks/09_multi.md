@@ -17,13 +17,10 @@
 ## Guest developer
 
 - Adam Jonah
-
   - [cleanandchecked2 app](https://github.com/supertutorai/demoproject)
-
     - scan bar code of product to get nut
 
   - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
-
     - tuttO - get flirty!
 
   - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
@@ -35,7 +32,6 @@
 ## Review - tracking time
 
 - [Slide Show Delay](https://github.com/molab-itp/09-SlideShowDelay)
-
   - slide show with slider for delay
 
 <!-- - [CaptureRecorder](https://github.com/jht9629-nyu/CaptureRecorder.git)
@@ -47,11 +43,9 @@
 ## Map Demo Apps
 
 - [09-Location](https://github.com/molab-itp/09-Location)
-
   - in Simulator > Location > Features > Custom Location
 
 - [09-Bucketlist](https://github.com/molab-itp/09-Bucketlist)
-
   - Saves data to local Documents folder as SavedPlaces JSON file
 
 ## Saving Data - Local
@@ -65,7 +59,6 @@
 ## Saving Data - Cloud
 
 - [09-AnonLobbyCloud](https://github.com/molab-itp/09-AnonLobbyCloud.git)
-
   - Anonymous Lobby for Firebase
   - in private class repo
 
@@ -82,7 +75,6 @@
 ## MoGallery App
 
 - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
-
   - private repo with MoGallery/MoGallery/GoogleService-Info.plist
   - run on the your iOS device to access firebase project configured for this class
   - Use MoLobby project for Lobby only functions
@@ -115,7 +107,6 @@
 ### Firebase Tutorial - FireCards
 
 - https://www.kodeco.com/11609977-getting-started-with-cloud-firestore-and-swiftui
-
   - FireCards Firebase Console
     - https://console.firebase.google.com/u/0/project/firecards-77c11/firestore
 
@@ -125,7 +116,6 @@
 ### Firebase Tutorial - MakeItSo
 
 - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/
-
   - Chapter 1 to chapter 4
     - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/#building-a-simple-ui
     - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/#storing-data-in-the-cloud
@@ -146,13 +136,10 @@
 ## Homework Week09
 
 - Part 1:
-
   - Prepare first draft of your final project proposal. Ok to entertain more than one initial concept.
 
 - Part 2:
-
   - Option 1:
-
     - setup a firebase project and build one of the firebase tutorial apps
     - use our class repo to get the appropriate Firebase SDK version for the tutorial
       - FireCards
@@ -161,7 +148,6 @@
         - https://github.com/molab-itp/09-MakeItSo
 
   - Option 2:
-
     - customize the **MoLobby** app in
       - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
       - with your own multi-user experience twist
@@ -169,8 +155,7 @@
 
 - create a Week09 folder for your project and add link to it here:
 
-- [wiki home page week09](https://github.com/molab-itp/content-2025-09/wiki#week-09-homework)
-
+- [wiki home page week09](https://github.com/molab-itp/content-2026-itp/wiki#week-09-homework)
   - update your wiki page with your
     - progress | problems | plans | questions
     -

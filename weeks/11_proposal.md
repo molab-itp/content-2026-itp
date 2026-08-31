@@ -7,20 +7,17 @@
 - Pair up to update your final project proposal in your wiki page.
 
 - report
-
   - progress | problems| plans | questions
 
 ## Swift language creation and evolution
 
 - [Chris_Lattner](https://en.wikipedia.org/wiki/Chris_Lattner)
-
   - key person behind the creation and evolution of the Swift language
   - current project: https://www.modular.com/
 
 - [vapor - Swift, but on a server](https://vapor.codes/)
 
 - [Ignite - static site builder for Swift developers](https://github.com/twostraws/Ignite)
-
   - [ignitesamples](https://ignitesamples.hackingwithswift.com/)
 
 - [Build native apps for iPhone and Android with Skip](https://skip.tools/)
@@ -36,15 +33,12 @@
 ## Resources
 
 - [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
-
   - refactor using AI, checkout the branches
 
 - [09-AnonLobbyCloud](https://github.com/molab-itp/09-AnonLobbyCloud.git)
-
   - Anonymous Lobby for Firebase
 
 - [99-Flag-Flow](https://github.com/molab-itp/99-Flag-Flow.git)
-
   - exploration flow examples
   - EarthFlags - Origin Story
 
@@ -64,7 +58,6 @@
 - EarthFlags/EarthFlags.xcodeproj
 
 - exploration process and workflow
-
   - Swift workflow in other environs
     - mobile, desktop, server
     - app | CLI tool (command-line-interface)
@@ -76,15 +69,13 @@
 ## Homework Week11
 
 - continue working on your final project
-
   - how will you track your project?
     - homework folder | new repo
     - note how and put a link in your wiki page
 
 - be prepared to present and discuss
 
-- [wiki home page week11](https://github.com/molab-itp/content-2025-09/wiki#week-11-homework)
-
+- [wiki home page week11](https://github.com/molab-itp/content-2026-itp/wiki#week-11-homework)
   - update your wiki page with your
     - progress | problems | plans | questions
 

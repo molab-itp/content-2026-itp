@@ -51,14 +51,12 @@
 ### Video processing
 
 - [08-CameraRecorder](https://github.com/molab-itp/08-CameraRecorder)
-
   - apply core image filters to live video stream from camera
   - record button to save video to Photo library
   - minminal ObservableObject Model
   - no need for Combine!
 
 - [08-FilterTheWorld](https://github.com/molab-itp/08-FilterTheWorld)
-
   - Building a Camera App With SwiftUI and Combine
   - from [www.kodeco.com](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine)
 
@@ -92,7 +90,6 @@ Use search to be selective, or [browse by Topics](https://developer.apple.com/vi
 - Use Filter option at bottom
 
 - Note os version requirements
-
   - eg: iOS 16.0+ iPadOS 16.0+ macOS 13.0+ watchOS 9.0+ Xcode 14.0+
 
 - [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
@@ -143,22 +140,18 @@ Use search to be selective, or [browse by Topics](https://developer.apple.com/vi
 ## Homework Week08
 
 - Midterm assessment requirement:
-
   - Make sure your wiki page has at least one entry for each for the past weeks.
 
 - Option 1: work on previous assignments
-
   - create place holder folders for past assigments
   - continue studying Swift/SwiftUI and update wiki with your progress
 
 - Option 2: create a video manipulation app
-
   - you can base it on one of the resources presented in class, adding your own twist
   - add a link to your project here
 
 - create a Week08 folder for your project and add link to it here:
 
-- [wiki home page week08](https://github.com/molab-itp/content-2025-09/wiki#week-08-homework)
-
+- [wiki home page week08](https://github.com/molab-itp/content-2026-itp/wiki#week-08-homework)
   - update your wiki page with your
     - progress | problems | plans | questions

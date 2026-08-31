@@ -35,7 +35,6 @@ remove duplicate
 ## Playground review
 
 - Decoding the Apple documentation
-
   - [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
 
 ## Resources (from last week)
@@ -86,15 +85,12 @@ remove duplicate
   - extract source for Xcode using Finder option "Show Package Contents" -->
 
 - [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
-
   - Using Image systemName symbols to demonstrate SwiftUI
 
 - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
-
   - Using NavigationView to create list of images references using URL
 
 - [03-Canvas-Explore](https://github.com/molab-itp/03-Canvas-Explore)
-
   - explore SwiftUI Canvas and TimelineView for computed graphic animation
 
 - [03-ClockRemake](https://github.com/molab-itp/03-ClockRemake)
@@ -121,7 +117,6 @@ Part 1.
 - begin swiftui tutorials
 
 - create a single view SwiftUI app that produces image that is composed of some random elements
-
   - similar to 10print in
   - [03-Canvas-Explore](https://github.com/molab-itp/03-Canvas-Explore)
     <!-- - [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground) -->
@@ -129,15 +124,13 @@ Part 1.
   - ok to run in simulator
 
 - add a link to your project stored in your Week03 folder on
-
-  - [wiki home page week03](https://github.com/molab-itp/content-2025-09/wiki#week-03-homework)
+  - [wiki home page week03](https://github.com/molab-itp/content-2026-itp/wiki#week-03-homework)
 
 - document your progress and questions on your wiki page
 
 Part 2. begin research on your final project
 
 - consult wwdc videos
-
   - [wwdcnotes](https://wwdcnotes.com/documentation/wwdcnotes/)
     - [Meet MapKit for SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10043-meet-mapkit-for-swiftui)
     - [What’s new in SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10148-whats-new-in-swiftui)
@@ -149,7 +142,6 @@ Part 2. begin research on your final project
 ### Featured Prior Final Projects
 
 - Lydia Lin
-
   - https://github.com/lydia-lll/ARProject_OperaBand
   - https://lydia-lll.github.io/lydia_portfolio0/opera_face.html
 
