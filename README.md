@@ -74,8 +74,8 @@ At the completion of this course, the student should be able to:
 
 ## Time | Location | Dates
 
-- 09:00 AM - 12:00 PM Friday
-- 370 Jay St Room 408 Loc: Brooklyn Campus
+- 3:25 PM - 5:55 PM Thursday
+- 370 Jay St Room 450 Loc: Brooklyn Campus
 
 | Week | Date       |     |
 | :--- | :--------- | --- |
