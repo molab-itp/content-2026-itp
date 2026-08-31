@@ -45,6 +45,7 @@ We aim to create distributed instruments for computed expression.
 - [Swift Programming history](<https://en.wikipedia.org/wiki/Swift_(programming_language)>)
 - [changes - with playground demos](https://www.hackingwithswift.com/swift)
 - an evolving language:
+
   • 2026 Swift 6.3 March 27, 2026
   - 2025 Swift 6.1 March 31, 2025
   - 2024 Swift 6.0 September 16, 2024
