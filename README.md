@@ -197,5 +197,5 @@ Teachers and students work together to create a supportive learning environment.
 - [2022-01 molab ](https://github.com/molab-itp/content-2022)
 
 - [2018 - 2020 Sebastian Buys & Nien Lam - linebreak studio](https://www.linebreak.studio/about)
-  - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/)
+  <!-- - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/) -->
   - [@ github](https://github.com/mobilelabclass/content)
