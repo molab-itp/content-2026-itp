@@ -31,7 +31,7 @@ We aim to create distributed instruments for computed expression.
   - [MoGallery](https://github.com/molab-itp/98-MoGallery)
 
 - DICE Platform
-  - [DICECPU](https://johnhenrythompson.com/johnhenrythompson/3-dice.html)
+  - [DICECPU](https://jht1493.net/johnhenrythompson/3-dice.html)
 
 - Other apps
   SiteClone | MedCampus | SongClips
@@ -45,14 +45,13 @@ We aim to create distributed instruments for computed expression.
 - [Swift Programming history](<https://en.wikipedia.org/wiki/Swift_(programming_language)>)
 - [changes - with playground demos](https://www.hackingwithswift.com/swift)
 - an evolving language:
+  • 2027 Swift 6.3 March 27, 2026
   - 2025 Swift 6.1 March 31, 2025
   - 2024 Swift 6.0 September 16, 2024
-  <!-- - 2024 Swift 5.10.1 June 5, 2024 -->
   - 2023 Swift 5.9.2 December 11, 2023
   - 2022 Swift 5.7.1 November 1, 2022
   - 2021 Swift 5.5.2 December 14, 2021
   - 2020 Swift 5.3.2 December 15, 2020
-  <!-- - 2019 Swift 5.1.3 December 13, 2019 -->
   - 2019 Swift 5.0 March 25, 2019
   - 2018 Swift 4.2.1 October 30, 2018
   - 2017 Swift 4.0 September 19, 2017
@@ -154,11 +153,6 @@ Use search to be selective, or [browse by Topics](https://developer.apple.com/vi
 Sample code is recommend starting point for exploring what's possible for a final project. Download and verify the sample works before investing your time in further research.
 
 - [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
-<!-- - [WWDC sample code 2024](https://developer.apple.com/sample-code/wwdc/2024/)
-- [WWDC sample code 2023](https://developer.apple.com/sample-code/wwdc/2023/)
-- [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
-- [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
-- [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/) -->
 
 ## Class Resources
 
@@ -198,7 +192,7 @@ Course example repos
   - [01-Javascript-to-Swift](https://github.com/molab-itp/01-Javascript-to-Swift)
   - [01-Playground](https://github.com/molab-itp/01-Playground)
 
-- create a git repo for your class work, name it **molab-2025-09-yourNickName**
+- create a git repo for your class work, name it **molab-2026-itp-yourNickName**
   - make sure README.md option is checked
   - add **jht9629-nyu** as a collaborator
   - add .gitignore
