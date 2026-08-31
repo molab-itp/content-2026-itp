@@ -77,22 +77,22 @@ At the completion of this course, the student should be able to:
 - 09:00 AM - 12:00 PM Friday
 - 370 Jay St Room 408 Loc: Brooklyn Campus
 
-| Week | Date       |              |
-| :--- | :--------- | ------------ |
-| 01.  | 2025-09-05 |
-| 02.  | 2025-09-12 |
-| 03.  | 2025-09-19 |
-| 04.  | 2025-09-26 |
-| 05.  | 2025-10-03 |
-| 06.  | 2025-10-10 |
-| 07.  | 2025-10-17 |
-| 08.  | 2025-10-24 |
-| 09.  | 2025-10-31 |
-| 10.  | 2025-11-07 |
-| 11.  | 2025-11-14 |
-| 12.  | 2025-11-21 |
-| 13.  | 2025-11-26 | -- Wednesday |
-| 14.  | 2025-12-05 |
+| Week | Date       |     |
+| :--- | :--------- | --- |
+| 01.  | 2026-09-03 |
+| 02.  | 2026-09-10 |
+| 03.  | 2026-09-17 |
+| 04.  | 2026-09-24 |
+| 05.  | 2026-10-01 |
+| 06.  | 2026-10-08 |
+| 07.  | 2026-10-15 |
+| 08.  | 2026-10-22 |
+| 09.  | 2026-10-29 |
+| 10.  | 2026-11-05 |
+| 11.  | 2026-11-12 |
+| 12.  | 2026-11-19 |
+| 13.  | 2026-12-03 |     |
+| 14.  | 2026-12-10 |
 
 ## Class Resources
 
@@ -180,7 +180,7 @@ Teachers and students work together to create a supportive learning environment.
 
 # Previous Years
 
-- [2025-01 molab](https://github.com/molab-itp/content-2025-01)
+- [2026-01 molab](https://github.com/molab-itp/content-2026-01)
 
 - [2024-09 molab ](https://github.com/molab-itp/content-2024-09)
 
