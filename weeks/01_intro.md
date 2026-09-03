@@ -12,7 +12,7 @@ We aim to create distributed instruments for computed expression.
 
 - [xcode app install](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 
-<!-- - [sf symbols app install](https://developer.apple.com/sf-symbols/) -->
+- (optional) [sf symbols app install](https://developer.apple.com/sf-symbols/)
 
 - (optional) [vs code - optional for note taking](https://code.visualstudio.com) or some other text editor
 
