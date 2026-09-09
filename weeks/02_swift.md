@@ -139,6 +139,12 @@ node_modules
   - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
     - build to simulator | device
 
+### New Apple Tutorials!
+
+- [new develop-in-swift](https://developer.apple.com/tutorials/develop-in-swift)
+  - [welcome-to-app-development](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-app-development)
+  - [welcome-to-swiftui](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-swiftui)
+
 ## Homework Week02
 
 - continue learning Swift programming fundamentals and document your progress on your wiki page
