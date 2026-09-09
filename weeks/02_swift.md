@@ -24,6 +24,12 @@
 - [Unwrap app - test your Swift programming fundamentals](https://apps.apple.com/us/app/unwrap/id1440611372)
   - [jht9629-nyu/Unwrap - forked version. try running locally](https://github.com/jht9629-nyu/Unwrap.git)
 
+### New Apple Tutorials!
+
+- [new develop-in-swift](https://developer.apple.com/tutorials/develop-in-swift)
+  - [welcome-to-app-development](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-app-development)
+  - [welcome-to-swiftui](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-swiftui)
+
 ## Setup
 
 ### Finder config
@@ -137,12 +143,6 @@ node_modules
   - private version can be built to access firebase backend
   - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
     - build to simulator | device
-
-### New Apple Tutorials!
-
-- [new develop-in-swift](https://developer.apple.com/tutorials/develop-in-swift)
-  - [welcome-to-app-development](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-app-development)
-  - [welcome-to-swiftui](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-swiftui)
 
 ## Homework Week02
 
