@@ -120,17 +120,16 @@ node_modules
   - https://developer.apple.com/tutorials/sample-apps/aboutme
   - using SwiftUI to display information across multiple tab views
 
+- [Voice-Recorder](https://github.com/molab-itp/06-Voice-Recorder)
+  - Storage to local file system
+
 - [98-CaptureCameraStorage](https://github.com/molab-itp/98-CaptureCameraStorage)
   - Browsing Your Photos - based on Apple Tutorial Tutorial
   - source:
   - [Capturing and Displaying Photos - article](https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos)
-
   - [Uses Playgrounds app](https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt=12)
     - Tutorial adapted to Xcode project
       - build to simulator | device
-
-- [Voice-Recorder](https://github.com/molab-itp/06-Voice-Recorder)
-  - Storage to local file system
 
 - [98-MoGallery](https://github.com/molab-itp/98-MoGallery)
   - MoGallery is a mobile app for students to quickly create their own mobile multi user experiences
