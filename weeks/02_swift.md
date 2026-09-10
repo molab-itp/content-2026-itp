@@ -24,11 +24,16 @@
 - [Unwrap app - test your Swift programming fundamentals](https://apps.apple.com/us/app/unwrap/id1440611372)
   - [jht9629-nyu/Unwrap - forked version. try running locally](https://github.com/jht9629-nyu/Unwrap.git)
 
-### New Apple Tutorials!
+### Updated 2026 Apple Tutorials !
 
 - [new develop-in-swift](https://developer.apple.com/tutorials/develop-in-swift)
   - [welcome-to-app-development](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-app-development)
   - [welcome-to-swiftui](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-swiftui)
+
+### Updated 2025 Stanford iOS course !
+
+- [Stanford
+  CS193p - Developing Apps for iOS](https://cs193p.stanford.edu/)
 
 ## Setup
 
