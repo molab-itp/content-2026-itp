@@ -32,8 +32,8 @@
 
 ### Updated 2025 Stanford iOS course !
 
-- [Stanford
-  CS193p - Developing Apps for iOS](https://cs193p.stanford.edu/)
+- [Stanford CS193p - Developing Apps for iOS](https://cs193p.stanford.edu/)
+  - [youtube playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rPHblRXKsJCQs8TLGpiCTrG)
 
 ## Setup
 
