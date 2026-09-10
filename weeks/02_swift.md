@@ -17,7 +17,7 @@
 - [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
 
 - [docs.swift.org - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
-  - [Optional-Binding - example entry](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics#Optional-Binding)
+  - [Optional - example entry](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Optionals)
 
 - [to learn Swift quickly or use to review](https://www.hackingwithswift.com/sixty)
 
