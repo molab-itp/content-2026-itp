@@ -151,7 +151,7 @@ node_modules
 
 ## Homework Week02
 
-- iphone cable and (optional) headphones
+- bring iphone cable and (optional) headphones
 
 - continue learning Swift programming fundamentals and document your progress on your wiki page
 
