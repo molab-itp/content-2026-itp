@@ -29,46 +29,76 @@ remove duplicate
 ```
 
 - Xcode Tips video
-  - [Xcode + ChatGPT](https://www.youtube.com/watch?v=zhRyjt6jwPs)
   - [31 Xcode Tips & Tricks - 2023](https://www.youtube.com/watch?v=40imnmzsmxk&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko&index=3)
+  - [Xcode + ChatGPT - 2024](https://www.youtube.com/watch?v=zhRyjt6jwPs)
+
+## Resources (from last week)
+
+- [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
+
+- [Swift The Basics - docs.swift.org](https://docs.swift.org/latest/documentation/the-swift-programming-language/thebasics)
+- [Optionals](https://docs.swift.org/latest/documentation/the-swift-programming-language/thebasics/#Optionals)
+
+<!--
+## Othe Swift Language Resources
+- [Developer App](https://apps.apple.com/us/app/apple-developer/id640199958)
+- google / chat-G: "hacking with swiftui **topic**"
+- [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0/)
+-->
+
+## Test Your Swift Skills
+
+- [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
+- works on iPhone iOS and macOS desktops with Apple silicon
 
 ## Playground review
 
 - Decoding the Apple documentation
   - [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
 
-## Resources (from last week)
-
-- [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
-
-- [docs.swift.org - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
-- [Optional-Binding](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics#Optional-Binding)
-
-## Swift Langage Resources
-
-<!-- - [Developer App](https://apps.apple.com/us/app/apple-developer/id640199958) -->
-
-- google / chat-G: "hacking with swiftui **topic**"
-
-- [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0/)
-
-### test your Swift skills
-
-- [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
-- works on iPhone iOS and macOS desktops with Apple silicon
-
-### SwiftUI Resources
+## SwiftUI Resources
 
 - [apple documentation swiftui](https://developer.apple.com/documentation/swiftui/)
 
-- [wwdc19 Introducing SwiftUI: Building Your First App](https://wwdcnotes.com/documentation/wwdcnotes/wwdc19-204-introducing-swiftui-building-your-first-app)
+**From Apple WWDC 2019 - the birth of SwiftUI**
 
-- [WWDC 2019 Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/) ~ 55min
+- [WWDC 2019 Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/) ~55min
+- [wwdcnotes wwdc19 Introducing SwiftUI: Building Your First App](https://wwdcnotes.com/documentation/wwdcnotes/wwdc19-204-introducing-swiftui-building-your-first-app)
+- https://developer.apple.com/videos/play/wwdc2019/204/
+  - Introducing SwiftUI: Building Your First App ~55min
+- https://developer.apple.com/videos/play/wwdc2019/216/
+  - SwiftUI Essentials ~58min
+- https://developer.apple.com/videos/play/wwdc2019/226/
+  - Data Flow Through SwiftUI ~37min
 
-- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) complete up to but not including [interfacing-with-uikit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit) - 4hr 25min Estimated Time
+** From Apple pre-2027 - the middles ages of SwiftUI - **
 
-<!-- - [InterfacingWithUIKit.zip](https://docs-assets.developer.apple.com/published/242e2bc4bd32f82ad6c54ca5cd01f222/15600/InterfacingWithUIKit.zip) -->
+- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui)
+  - complete up to but not including [interfacing-with-uikit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit) - 4hr 25min Estimated Time
 
+**Apple 2027 - new approach - some samples Xcode 27**
+
+- https://developer.apple.com/tutorials/develop-in-swift/welcome-to-swiftui
+  - Welcome to SwiftUI
+- https://developer.apple.com/documentation/swiftui/
+- https://developer.apple.com/documentation/swiftui/wishlist-planning-travel-in-a-swiftui-app
+  - Wishlist: Planning travel in a SwiftUI app
+  - requires Xcode 27
+
+**From Paul Hudson - hacking with swift**
+
+- https://www.hackingwithswift.com/books/ios-swiftui
+  - Hacking with iOS: SwiftUI Edition - 21 projects
+- https://github.com/twostraws/hackingwithswift
+- Hacking with Swift source code
+- Project 1: WeSplit source:
+  - https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project1
+- Project 14: Bucket List
+  - https://www.hackingwithswift.com/books/ios-swiftui/bucket-list-introduction
+  - https://www.hackingwithswift.com/books/ios-swiftui/writing-data-to-the-documents-directory - reading and writing JSON to local storage - using MapKit - source:
+    https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project14/Bucketlist
+- https://www.hackingwithswift.com/100/swiftui
+  - 19 projects -- looks like projects are saved with above
 - [hackingwithswift](https://www.hackingwithswift.com/books/ios-swiftui)
   - [github hackingwithswift](https://github.com/twostraws/hackingwithswift)
   - project based, select the project(s) that you find interesting
@@ -151,7 +181,11 @@ Part 2. begin research on your final project
   - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
     - BIG SIGNAL: SUMMON HELP 1CLICK
 
-### swift-student-challenge
+### Swift Student Challenge
 
 - https://developer.apple.com/swift-student-challenge/
-  - feb 25 2024 deadline - offered yearly
+  - offered yearly, starts feb 2027
+
+## AI and the future of iOS development !
+
+- [AI Disrupted My YouTube Business. So I Got a Job - 2026](https://www.youtube.com/watch?v=AQVyHXZWILo)
