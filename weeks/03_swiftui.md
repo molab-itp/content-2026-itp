@@ -39,14 +39,13 @@ remove duplicate
 - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0/)
 -->
 
-## Test Your Swift Skills
+## Test Your Swift Programming Skills
 
 - [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
-- works on iPhone iOS and macOS desktops with Apple silicon
-
+  - works on iPhone iOS and macOS desktops with Apple silicon
 - [00-molab-2026-jht](https://github.com/molab-itp/00-molab-2026-jht)
-- playgrounds with TRY: challenges exercises
-- solutions in z-TRIED folder
+  - playgrounds with TRY: challenges exercises
+  - solutions in z-TRIED folder
 
 ## Playground review
 
