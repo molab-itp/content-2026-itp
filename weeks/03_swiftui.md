@@ -30,6 +30,7 @@ remove duplicate
 
 - [Swift The Basics - docs.swift.org](https://docs.swift.org/latest/documentation/the-swift-programming-language/thebasics)
 - [Optionals](https://docs.swift.org/latest/documentation/the-swift-programming-language/thebasics/#Optionals)
+- [Enumerations](https://docs.swift.org/latest/documentation/the-swift-programming-language/enumerations)
 
 <!--
 ## Othe Swift Language Resources
@@ -63,7 +64,7 @@ remove duplicate
 - https://developer.apple.com/videos/play/wwdc2019/226/
   - Data Flow Through SwiftUI ~37min
 
-** From Apple pre-2027 - the middles ages of SwiftUI - **
+**From Apple pre-2027 - the middles ages of SwiftUI**
 
 - [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui)
   - complete up to but not including [interfacing-with-uikit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit) - 4hr 25min Estimated Time
@@ -97,22 +98,23 @@ remove duplicate
   - project based, select the project(s) that you find interesting
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
 
+## State Counter App Build along
+
+- [03-counter-state]()
+  - Intro to state management with @State
+  - Example of using enums
+
 ## SwiftUI Example Repo
 
 - build to simulator and to your device
-
 - [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
   - Using Image systemName symbols to demonstrate SwiftUI
-
 - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
   - Using NavigationView to create list of images references using URL
-
 - [03-Canvas-Explore](https://github.com/molab-itp/03-Canvas-Explore)
   - explore SwiftUI Canvas and TimelineView for computed graphic animation
-
 - [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
   - Display a computed image in SwiftUI View using UIGraphicsImageRenderer
-
 - [03-ClockRemake](https://github.com/molab-itp/03-ClockRemake)
   - Using Canvas to recreate the design used for the Clock app
 
