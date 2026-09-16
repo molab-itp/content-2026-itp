@@ -27,7 +27,6 @@ remove duplicate
 ## Resources (from last week)
 
 - [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
-
 - [Swift The Basics - docs.swift.org](https://docs.swift.org/latest/documentation/the-swift-programming-language/thebasics)
 - [closures](https://docs.swift.org/latest/documentation/the-swift-programming-language/closures)
 - [Optionals](https://docs.swift.org/latest/documentation/the-swift-programming-language/thebasics/#Optionals)
