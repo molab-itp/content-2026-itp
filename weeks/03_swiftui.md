@@ -40,7 +40,7 @@ remove duplicate
 - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0/)
 -->
 
-## Test Your Swift Programming Skills
+## Practice Your Swift Programming Skills
 
 - [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
   - works on iPhone iOS and macOS desktops with Apple silicon
