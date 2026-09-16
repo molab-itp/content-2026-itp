@@ -124,28 +124,30 @@ remove duplicate
 
 ## Homework Week03
 
-Part 1.
+**Part 0. (Optional) exercises**
+
+- complete any of the TRY: exercises in
+- [00-molab-2026-jht](https://github.com/molab-itp/00-molab-2026-jht)
+- don't peek at solutions
+- work out solution on paper before entering code
+- avoid all use of AI, except to look up or explain documentation
+
+**Part 1.**
 
 - complete any missing work
-
 - continue exploring swift fundatmentals
-
 - update your wiki page with a description of how you approached learning swift fundatmentals and your weekly progress.
-
 - begin swiftui tutorials
-
 - create a multi view SwiftUI app that displays an image that is composed of random elements
   - similar to 10print in
   - [03-Canvas-Explore](https://github.com/molab-itp/03-Canvas-Explore)
   - make use of arrays and random numbers
   - ok to run in simulator
-
 - add a link to your project stored in your Week03 folder on
   - [wiki home page week03](https://github.com/molab-itp/content-2026-itp/wiki#week-03-homework)
-
 - document your progress and questions on your wiki page
 
-Part 2. begin research on your final project
+**Part 2. begin research on your final project**
 
 - consult wwdc videos
   - [wwdcnotes](https://wwdcnotes.com/documentation/wwdcnotes/)
@@ -153,7 +155,6 @@ Part 2. begin research on your final project
     - [What’s new in SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10148-whats-new-in-swiftui)
       <!-- - [Prototype with Xcode Playgrounds](https://www.wwdcnotes.com/notes/wwdc23/10250/) -->
       <!-- - [SwiftUI Essentials](https://www.wwdcnotes.com/notes/wwdc19/216/) -->
-
 - [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
 
 ## --
