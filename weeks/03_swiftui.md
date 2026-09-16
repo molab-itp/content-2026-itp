@@ -24,7 +24,7 @@ remove duplicate
   - [31 Xcode Tips & Tricks - 2023](https://www.youtube.com/watch?v=40imnmzsmxk&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko&index=3)
   - [Xcode + ChatGPT - 2024](https://www.youtube.com/watch?v=zhRyjt6jwPs)
 
-## Resources (from last week)
+## Swift Basic Review
 
 - [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
 - [Swift The Basics - docs.swift.org](https://docs.swift.org/latest/documentation/the-swift-programming-language/thebasics)
