@@ -44,6 +44,10 @@ remove duplicate
 - [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
 - works on iPhone iOS and macOS desktops with Apple silicon
 
+- [00-molab-2026-jht](https://github.com/molab-itp/00-molab-2026-jht)
+- playgrounds with TRY: challenges exercises
+- solutions in z-TRIED folder
+
 ## Playground review
 
 - Decoding the Apple documentation
