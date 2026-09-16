@@ -87,9 +87,10 @@ remove duplicate
   - https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project1
 - Project 14: Bucket List
   - https://www.hackingwithswift.com/books/ios-swiftui/bucket-list-introduction
-  - https://www.hackingwithswift.com/books/ios-swiftui/writing-data-to-the-documents-directory - reading and writing JSON to local storage - using MapKit - source:
-    https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project14/Bucketlist
-- https://www.hackingwithswift.com/100/swiftui
+  - https://www.hackingwithswift.com/books/ios-swiftui/writing-data-to-the-documents-directory
+    - reading and writing JSON to local storage - using MapKit - source:
+    - https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project14/Bucketlist
+- **https://www.hackingwithswift.com/100/swiftui**
   - 19 projects -- looks like projects are shared with books/ios-swiftui
 - [hackingwithswift](https://www.hackingwithswift.com/books/ios-swiftui)
   - [github hackingwithswift](https://github.com/twostraws/hackingwithswift)
