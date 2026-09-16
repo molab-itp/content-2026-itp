@@ -2,14 +2,6 @@
 
 ## [[Previous](./02_swift.md)] [[Next](./04_swiftui.md)]
 
-<!--
-## Resource checkin
-- [Apple Swift Docs - developer](https://developer.apple.com/documentation/swift)
-- [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
-- [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
-- [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
--->
-
 ## Plan
 
 - review homework
@@ -98,7 +90,7 @@ remove duplicate
   - https://www.hackingwithswift.com/books/ios-swiftui/writing-data-to-the-documents-directory - reading and writing JSON to local storage - using MapKit - source:
     https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project14/Bucketlist
 - https://www.hackingwithswift.com/100/swiftui
-  - 19 projects -- looks like projects are saved with above
+  - 19 projects -- looks like projects are shared with books/ios-swiftui
 - [hackingwithswift](https://www.hackingwithswift.com/books/ios-swiftui)
   - [github hackingwithswift](https://github.com/twostraws/hackingwithswift)
   - project based, select the project(s) that you find interesting
@@ -107,12 +99,6 @@ remove duplicate
 ## SwiftUI Example Repo
 
 - build to simulator and to your device
-
-<!-- - [03-About-Me](https://github.com/molab-itp/03-About-Me)
-
-  - [sample-apps/aboutme - tutorial](https://developer.apple.com/tutorials/sample-apps/aboutme)
-  - requires the latest version of the [Swift Playgrounds App](https://www.apple.com/swift/playgrounds/), runs on macOS and iPad
-  - extract source for Xcode using Finder option "Show Package Contents" -->
 
 - [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
   - Using Image systemName symbols to demonstrate SwiftUI
@@ -123,16 +109,11 @@ remove duplicate
 - [03-Canvas-Explore](https://github.com/molab-itp/03-Canvas-Explore)
   - explore SwiftUI Canvas and TimelineView for computed graphic animation
 
+- [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
+  - Display a computed image in SwiftUI View using UIGraphicsImageRenderer
+
 - [03-ClockRemake](https://github.com/molab-itp/03-ClockRemake)
   - Using Canvas to recreate the design used for the Clock app
-
-<!-- - [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View) -->
-
-<!-- - [camera-app-with-swiftui-and-combine](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine) -->
-
-<!-- - [2D Games Using SpriteKit, SwiftUI and Algorand blockchain](https://developer.algorand.org/tutorials/developing-2d-games-using-spritekit-and-swiftui-part-1/)
-!!@ Dead link
--->
 
 ## Homework Week03
 
@@ -146,10 +127,9 @@ Part 1.
 
 - begin swiftui tutorials
 
-- create a single view SwiftUI app that produces image that is composed of some random elements
+- create a multi view SwiftUI app that displays an image that is composed of random elements
   - similar to 10print in
   - [03-Canvas-Explore](https://github.com/molab-itp/03-Canvas-Explore)
-    <!-- - [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground) -->
   - make use of arrays and random numbers
   - ok to run in simulator
 
@@ -169,7 +149,9 @@ Part 2. begin research on your final project
 
 - [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
 
-### Featured Prior Final Projects
+## --
+
+## Featured Prior Final Projects
 
 - Lydia Lin
   - https://github.com/lydia-lll/ARProject_OperaBand
@@ -181,7 +163,7 @@ Part 2. begin research on your final project
   - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
     - BIG SIGNAL: SUMMON HELP 1CLICK
 
-### Swift Student Challenge
+## Swift Student Challenge
 
 - https://developer.apple.com/swift-student-challenge/
   - offered yearly, starts feb 2027
