@@ -29,8 +29,10 @@ remove duplicate
 - [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
 
 - [Swift The Basics - docs.swift.org](https://docs.swift.org/latest/documentation/the-swift-programming-language/thebasics)
+- [closures](https://docs.swift.org/latest/documentation/the-swift-programming-language/closures)
 - [Optionals](https://docs.swift.org/latest/documentation/the-swift-programming-language/thebasics/#Optionals)
 - [Enumerations](https://docs.swift.org/latest/documentation/the-swift-programming-language/enumerations)
+- [Computed-Properties](https://docs.swift.org/latest/documentation/the-swift-programming-language/properties#Computed-Properties)
 
 <!--
 ## Othe Swift Language Resources
@@ -60,16 +62,23 @@ remove duplicate
 
 ### Getting start with SwiftUI
 
-- [apple documentation swiftui](https://developer.apple.com/documentation/swiftui/)
-  - [swiftui/get-started](https://developer.apple.com/swiftui/get-started/)
+**Hacking path**
+
+- [tutorial: Understanding the basic structure of a SwiftUI app](https://www.hackingwithswift.com/books/ios-swiftui/understanding-the-basic-structure-of-a-swiftui-app)
 - [hackingwithswift 100 days](https://www.hackingwithswift.com/100/swiftui)
-  Days 16-18: Starting SwiftUI - Project 1 - We Split
-  - source: https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project1
+  Days 16-18: Starting SwiftUI - Project 1 - We Split - Intro to SwiftUI
+- source: https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project1
+- [03-WeSplit](https://github.com/molab-itp/03-WeSplit)
+
+**Apple path**
+
+- [apple documentation swiftui](https://developer.apple.com/documentation/swiftui/)
+- [swiftui/get-started](https://developer.apple.com/swiftui/get-started/)
 
 ## State Counter App Build along
 
 - in class exercise
-- [03-counter-state]()
+- let build 03-counter-state
   - Intro to state management with @State
   - Example of using enums
 
