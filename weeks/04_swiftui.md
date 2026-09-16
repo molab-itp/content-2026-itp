@@ -21,7 +21,7 @@
 - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
   - AsyncImage to load image from url
 
-- [Week04-Demo](https://github.com/molab-itp/Week04-Demo)
+- [04-RandomShapes](https://github.com/molab-itp/04-RandomShapes.git)
   - asset catalog for icon images
 
 ```
