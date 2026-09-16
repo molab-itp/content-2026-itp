@@ -185,6 +185,8 @@ what came before SwiftUI
 
 ## Homework Week04
 
+**Part 1**
+
 - complete any missing work
 
 - create a Week04 folder for your homework project
@@ -195,3 +197,36 @@ what came before SwiftUI
   - [wiki home page week04](https://github.com/molab-itp/content-2026-itp/wiki#week-04-homework)
 
 - document your progress and questions on your wiki page
+
+**Part 2. begin research on your final project**
+
+- consult wwdc videos
+  - [wwdcnotes](https://wwdcnotes.com/documentation/wwdcnotes/)
+    - [Meet MapKit for SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10043-meet-mapkit-for-swiftui)
+    - [What’s new in SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10148-whats-new-in-swiftui)
+      <!-- - [Prototype with Xcode Playgrounds](https://www.wwdcnotes.com/notes/wwdc23/10250/) -->
+      <!-- - [SwiftUI Essentials](https://www.wwdcnotes.com/notes/wwdc19/216/) -->
+- [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
+
+## --
+
+## Featured Prior Final Projects
+
+- Lydia Lin
+  - https://github.com/lydia-lll/ARProject_OperaBand
+  - https://lydia-lll.github.io/lydia_portfolio0/opera_face.html
+
+- Adam Jonah
+  - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
+    - tuttO - get flirty!
+  - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
+    - BIG SIGNAL: SUMMON HELP 1CLICK
+
+## Swift Student Challenge
+
+- https://developer.apple.com/swift-student-challenge/
+  - offered yearly, starts feb 2027
+
+## AI and the future of iOS development !
+
+- [AI Disrupted My YouTube Business. So I Got a Job - 2026](https://www.youtube.com/watch?v=AQVyHXZWILo)
