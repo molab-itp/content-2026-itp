@@ -77,7 +77,7 @@ remove duplicate
 ## State Counter App Build along
 
 - in class exercise
-- let build 03-counter-state
+- lets build [03-Counts-UI](https://github.com/molab-itp/03-Counts-UI)
   - Intro to state management with @State
   - Example of using enums
 
