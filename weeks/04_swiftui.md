@@ -163,7 +163,6 @@ what came before SwiftUI
       <!-- - [SwiftUI Essentials](https://www.wwdcnotes.com/notes/wwdc19/216/) -->
 - [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
   - starts with WWDC 2026 and iOS 27 / Xcode 27 samples
-
 - Other sample code to learn from
 - read code and look up documentation with Quick Help
 - and possible basis and inspiration for final projects
