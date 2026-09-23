@@ -57,10 +57,44 @@
   - update your wiki page with your
     - progress | problems | plans | questions
 
-## Final Project Inspiration and Resources
+## --
+
+**Part 3. begin research on your final project**
+
+- consult wwdc videos
+  - [wwdcnotes](https://wwdcnotes.com/documentation/wwdcnotes/)
+    - [Meet MapKit for SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10043-meet-mapkit-for-swiftui)
+    - [What’s new in SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10148-whats-new-in-swiftui)
+      <!-- - [Prototype with Xcode Playgrounds](https://www.wwdcnotes.com/notes/wwdc23/10250/) -->
+      <!-- - [SwiftUI Essentials](https://www.wwdcnotes.com/notes/wwdc19/216/) -->
+- [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
+
+## Featured Prior Final Projects
+
+- Lydia Lin
+  - https://github.com/lydia-lll/ARProject_OperaBand
+  - https://lydia-lll.github.io/lydia_portfolio0/opera_face.html
+
+- Adam Jonah
+  - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
+    - tuttO - get flirty!
+  - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
+    - BIG SIGNAL: SUMMON HELP 1CLICK
+
+## Swift Student Challenge
+
+- https://developer.apple.com/swift-student-challenge/
+  - offered yearly, starts feb 2027
+
+## AI and the future of iOS development !
+
+- [AI Disrupted My YouTube Business. So I Got a Job - 2026](https://www.youtube.com/watch?v=AQVyHXZWILo)
+
+<!-- ## Final Project Inspiration and Resources
 
 - [Augmented Hacking](https://electricsheepdream.notion.site/Augmented-Hacking-b5f033acc43e4820b081b57d211bf03a)
   - Sebastian Buys & Nien Lam
   - Augmented Hacking ITPG-GT 2356 1
   - [git repo](https://github.com/augmentedhacking)
   - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0)
+ -->

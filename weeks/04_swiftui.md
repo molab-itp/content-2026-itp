@@ -4,35 +4,48 @@
 
 ## Review
 
+- lets build [03-Counts-UI](https://github.com/molab-itp/03-Counts-UI)
+  - ShuffleFruitsView
 - [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
   - Dictionary/Array/Struct/Class
-
 - [Unwrap app](https://apps.apple.com/app/id1440611372)
   - Test your Swift coding fundamentals
-
 - [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
-
 - [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
-
 - [03-Canvas-Explore](https://github.com/molab-itp/03-Canvas-Explore)
 
-## Lab - Using images
+## Lab
+
+**TestFlight delivery of apps**
+
+- [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
+  - share your iOS photos using Google Firebase
+- [99-HO-States](https://github.com/molab-itp/99-HO-States)
+  - SwiftUI and React web app built with Claude AI
+  - workflow tracked in \_prompts.txt
+
+**Using images in an Xcode project**
 
 - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
   - AsyncImage to load image from url
-
-- [04-RandomShapes](https://github.com/molab-itp/04-RandomShapes.git)
+  - note repo updated
+- [04-RandomShapes](https://github.com/molab-itp/04-RandomShapes)
   - asset catalog for icon images
 
 ```
 Label("Shape1", image: "Shape1" )
 ```
 
-- in class exercise:
-  - remix and adapt for dynamic screen size
-  - decode the docs for geometry reader
+**Build to device**
 
-### prune Simulators list
+- try any example project
+- note premissions required on device
+
+<!-- - in class exercise:
+  - remix and adapt for dynamic screen size
+  - decode the docs for geometry reader -->
+
+**Xcode tip: prune Simulators list**
 
 ```
 >> Window : Devices and Simulators
@@ -47,13 +60,10 @@ Prune to 16.4 and 17.2
 ## data modeling
 
 - [SwiftUI docs](https://developer.apple.com/documentation/swiftui)
-
 - [Model data docs](https://developer.apple.com/documentation/swiftui/model-data)
   - Manage the data drive that drives your app interface.
-
 - [Managing user interface state docs](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
   - Encapsulate view-specific data within your app’s view hierarchy to make your views reusable.
-
 - [data modeling example code](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
 
 ### Other App Exampples
@@ -110,7 +120,6 @@ struct BookEditView: View {
 
 - [04-SlideShowDemo](https://github.com/molab-itp/04-SlideShowDemo)
   - audio playback over slide show
-
 - [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
   - Demonstration of using AVAudioPlayer to play both internal and web based audio files
   - [AVAudioPlayer docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
@@ -145,7 +154,7 @@ what came before SwiftUI
 - https://developer.apple.com/documentation/swiftui/
   - ios 13.0+
 
-## Final Project Inspiration and Resources
+## Sample Code & Final Project Inspiration
 
 - consult wwdc videos
   - [wwdcnotes](https://wwdcnotes.com/documentation/wwdcnotes/)
@@ -153,29 +162,25 @@ what came before SwiftUI
     - [What’s new in SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10148-whats-new-in-swiftui)
       <!-- - [Prototype with Xcode Playgrounds](https://www.wwdcnotes.com/notes/wwdc23/10250/) -->
       <!-- - [SwiftUI Essentials](https://www.wwdcnotes.com/notes/wwdc19/216/) -->
-
 - [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
+  - starts with WWDC 2026 and iOS 27 / Xcode 27 samples
 
-- Possible basis and inspiration for final projects
-
+- Other sample code to learn from
+- read code and look up documentation with Quick Help
+- and possible basis and inspiration for final projects
 - [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art)
   - An iOS app that can turn any image into ascii art
-
 - [spritekit-using-spriteview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-spritekit-using-spriteview)
   - SwiftUI’s SpriteView lets us render any SKScene subclass right inside SwiftUI
-
 - [AudioKit/Cookbook](https://github.com/AudioKit/Cookbook)
   - "AudioKit Cookbook for iOS and macOS (via Catalyst)"
   - Consider audio capabities in this open source library for your final project
-
 - [Simple SwiftUI](https://github.com/twostraws/simple-swiftui)
   - "Simple SwiftUI is a small but growing collection of projects designed to
     provide small sample projects for SwiftUI learners to read, learn from,
     modify, and even use as a basis for their projects in the future."
-
 - [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)
   - "SwiftUI by Example is the world's largest collection of SwiftUI examples, tips, and techniques..."
-
 - [creating_custom_symbol_images_for_your_app](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app)
 
 <!--
@@ -185,48 +190,21 @@ what came before SwiftUI
 
 ## Homework Week04
 
+**Part 0. (Optional) exercises**
+
+- complete any of the TRY: exercises in
+- [00-molab-2026-jht](https://github.com/molab-itp/00-molab-2026-jht)
+- don't peek at solutions
+- work out solution on paper before entering code
+- avoid all use of AI, except to look up or explain documentation
+
 **Part 1**
 
-- complete any missing work
-
 - create a Week04 folder for your homework project
-
-- create your own SwiftUI app that incorporates time and/or audio playback. the app should have at least two pages
-
+- create your own SwiftUI app that incorporates time and/or audio playback
+- the app should have at least two pages
 - add a link to your project stored in your Week04 folder on
   - [wiki home page week04](https://github.com/molab-itp/content-2026-itp/wiki#week-04-homework)
 
 - document your progress and questions on your wiki page
-
-**Part 2. begin research on your final project**
-
-- consult wwdc videos
-  - [wwdcnotes](https://wwdcnotes.com/documentation/wwdcnotes/)
-    - [Meet MapKit for SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10043-meet-mapkit-for-swiftui)
-    - [What’s new in SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10148-whats-new-in-swiftui)
-      <!-- - [Prototype with Xcode Playgrounds](https://www.wwdcnotes.com/notes/wwdc23/10250/) -->
-      <!-- - [SwiftUI Essentials](https://www.wwdcnotes.com/notes/wwdc19/216/) -->
-- [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
-
-## --
-
-## Featured Prior Final Projects
-
-- Lydia Lin
-  - https://github.com/lydia-lll/ARProject_OperaBand
-  - https://lydia-lll.github.io/lydia_portfolio0/opera_face.html
-
-- Adam Jonah
-  - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
-    - tuttO - get flirty!
-  - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
-    - BIG SIGNAL: SUMMON HELP 1CLICK
-
-## Swift Student Challenge
-
-- https://developer.apple.com/swift-student-challenge/
-  - offered yearly, starts feb 2027
-
-## AI and the future of iOS development !
-
-- [AI Disrupted My YouTube Business. So I Got a Job - 2026](https://www.youtube.com/watch?v=AQVyHXZWILo)
+- keep your wiki page up to date with a weekly summary of your work
