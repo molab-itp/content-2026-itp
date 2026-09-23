@@ -1,6 +1,6 @@
 # [content-2026-itp Mobile App Development Lab](https://github.com/molab-itp/content-2026-itp)
 
-<details open>
+<details closed>
 <summary>
 
 ## COURSE DESCRIPTION
