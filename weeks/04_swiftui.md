@@ -123,7 +123,6 @@ struct BookEditView: View {
 - [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
   - Demonstration of using AVAudioPlayer to play both internal and web based audio files
   - [AVAudioPlayer docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
-
 - analyzing code
   - comments
   - find definition
