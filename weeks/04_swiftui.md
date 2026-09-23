@@ -203,6 +203,5 @@ what came before SwiftUI
 - the app should have at least two pages
 - add a link to your project stored in your Week04 folder on
   - [wiki home page week04](https://github.com/molab-itp/content-2026-itp/wiki#week-04-homework)
-
 - document your progress and questions on your wiki page
 - keep your wiki page up to date with a weekly summary of your work
