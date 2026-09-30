@@ -101,16 +101,3 @@
 
 - https://developer.apple.com/swift-student-challenge/
   - offered yearly, starts feb 2027
-
-## AI and the future of iOS development !
-
-- [AI Disrupted My YouTube Business. So I Got a Job - 2026](https://www.youtube.com/watch?v=AQVyHXZWILo)
-
-<!-- ## Final Project Inspiration and Resources
-
-- [Augmented Hacking](https://electricsheepdream.notion.site/Augmented-Hacking-b5f033acc43e4820b081b57d211bf03a)
-  - Sebastian Buys & Nien Lam
-  - Augmented Hacking ITPG-GT 2356 1
-  - [git repo](https://github.com/augmentedhacking)
-  - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0)
- -->
