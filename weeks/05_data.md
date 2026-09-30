@@ -7,6 +7,9 @@
 - upload at least one MoGallery photo
 - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
   - share your iOS photos using Google Firebase
+  - [firebase firestore console](https://console.firebase.google.com/u/0/project/molab-485f5/firestore/databases/-default-/data/~2Fnamespaces~2Fmo-6)
+    - select gstore > mo-6
+  - request access to filestore console
 
 ## REVIEW data modeling
 
