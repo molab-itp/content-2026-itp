@@ -7,9 +7,6 @@
 - upload at least one MoGallery photo
 - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
   - share your iOS photos using Google Firebase
-- [99-HO-States](https://github.com/molab-itp/99-HO-States)
-  - SwiftUI and React web app built with Claude AI
-  - workflow tracked in \_prompts.txt
 
 ## REVIEW data modeling
 
@@ -76,7 +73,9 @@
 
 ## --
 
-**Part 3. begin research on your final project**
+**begin research on your final project**
+
+- what can you do only on your phone?
 
 - consult wwdc videos
   - [wwdcnotes](https://wwdcnotes.com/documentation/wwdcnotes/)
