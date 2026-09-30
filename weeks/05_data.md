@@ -79,7 +79,6 @@
 **begin research on your final project**
 
 - what can you do only on your phone?
-
 - consult wwdc videos
   - [wwdcnotes](https://wwdcnotes.com/documentation/wwdcnotes/)
     - [Meet MapKit for SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10043-meet-mapkit-for-swiftui)
