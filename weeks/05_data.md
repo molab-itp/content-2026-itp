@@ -2,37 +2,58 @@
 
 ## [[Previous](./04_swiftui.md)] [[Next](./06_data.md)]
 
-- [swiftui - documentation](https://developer.apple.com/documentation/swiftui)
-- [swiftui - state-and-data-flow](https://developer.apple.com/documentation/swiftui/state-and-data-flow)
-- [All SwiftUI property wrappers explained and compared](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)
-  Understanding "Source of Truth"
+## REVIEW TestFlight apps
 
+- upload at least one MoGallery photo
+- [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
+  - share your iOS photos using Google Firebase
+- [99-HO-States](https://github.com/molab-itp/99-HO-States)
+  - SwiftUI and React web app built with Claude AI
+  - workflow tracked in \_prompts.txt
+
+## REVIEW data modeling
+
+- [SwiftUI docs](https://developer.apple.com/documentation/swiftui)
+- [Model data docs](https://developer.apple.com/documentation/swiftui/model-data)
+  - Manage the data drive that drives your app interface.
+- [Managing user interface state docs](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
+  - Encapsulate view-specific data within your app’s view hierarchy to make your views reusable.
+- [data modeling example code](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
+  - DOWNLOAD ManagingModelDataSample
 - [https://github.com/molab-itp github](https://github.com/molab-itp)
+  - our class examples. look here first.
 
 ### Sensor tutorials
 
 - [bubblelevel - sensors](https://developer.apple.com/tutorials/sample-apps/bubblelevel?language=swift)
+  - displays the orientation of your device as numbers and as a graphical version of a bubble level
 - [seismometer - sensors](https://developer.apple.com/tutorials/sample-apps/seismometer?language=swift)
+  - shows how to display vibration information in two formats: a needle and a line graph
+  - NOTE: vintage ObservableObject in code, updated in class example
 
-## Examples Apps
-
-### Device Required
+## Running Example App Your Device
 
 - [05-BubbleLevel](https://github.com/molab-itp/05-BubbleLevel)
 - [05-Seismometer](https://github.com/molab-itp/05-Seismometer)
-
-### Preview in XCode
-
-- [05-AppStorageDemo](https://github.com/molab-itp/05-AppStorageDemo)
-- [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
-- [05-Heart-Shapes](https://github.com/molab-itp/05-Heart-Shapes)
-- [05-TimerDemo](https://github.com/molab-itp/05-TimerDemo)
+  - Apple sample apps updated to current @Observable
+  - explore in preview
+  - run on device
 
 ## In class exercise
 
-- review researching using custom fonts
-  - [05-CustomFont](https://github.com/molab-itp/05-CustomFont)
-
+- Preview and explore in XCode
+- [05-TimerDemo](https://github.com/molab-itp/05-TimerDemo)
+  - Demonstration of tracking time
+  - Uses @Binding
+- [05-AppStorageDemo](https://github.com/molab-itp/05-AppStorageDemo)
+  - Using @AppStorage property wrapper for simple user data
+- [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
+  - Creating and editing a list of images
+  - data stored in memory only. JSON example will store to file
+- [05-Heart-Shapes](https://github.com/molab-itp/05-Heart-Shapes)
+  - Learn how to use shapes and simple animations in SwiftUI.
+- [05-CustomFont](https://github.com/molab-itp/05-CustomFont)
+  - reseaching using custom fonts
 - build BasicNav
   - copy repo and use Page9 to start BasicNav [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
   - add [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
@@ -45,15 +66,11 @@
   - make use of office hours and/or coding lab
   - complete Swift Language Fundamentals
   - your wiki page should have at least one entry for each week summarizing the work done / challenges that you encountered for that week.
-  -
-
 - Part 2: incorporate one of the class demos into your navigation app
   - for example, add app storage to your naviation app
   - do this only if you are update on previous homework
-
 - create a Week05 folder for your project and add link to it here:
   - [wiki home page week05](https://github.com/molab-itp/content-2026-itp/wiki#week-05-homework)
-
   - update your wiki page with your
     - progress | problems | plans | questions
 
@@ -65,8 +82,6 @@
   - [wwdcnotes](https://wwdcnotes.com/documentation/wwdcnotes/)
     - [Meet MapKit for SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10043-meet-mapkit-for-swiftui)
     - [What’s new in SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10148-whats-new-in-swiftui)
-      <!-- - [Prototype with Xcode Playgrounds](https://www.wwdcnotes.com/notes/wwdc23/10250/) -->
-      <!-- - [SwiftUI Essentials](https://www.wwdcnotes.com/notes/wwdc19/216/) -->
 - [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
 
 ## Featured Prior Final Projects
