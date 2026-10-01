@@ -35,7 +35,7 @@
   - shows how to display vibration information in two formats: a needle and a line graph
   - NOTE: vintage ObservableObject in code, updated in class example
 
-## Running Example App Your on Device
+## Running Example App on Your Device
 
 - [05-BubbleLevel](https://github.com/molab-itp/05-BubbleLevel)
 - [05-Seismometer](https://github.com/molab-itp/05-Seismometer)
