@@ -10,6 +10,9 @@
   - [firebase firestore console](https://console.firebase.google.com/u/0/project/molab-485f5/firestore/databases/-default-/data/~2Fnamespaces~2Fmo-6)
     - select gstore > mo-6
   - request access to filestore console
+- [99-HO-States](https://github.com/molab-itp/99-HO-States)
+  - SwiftUI and React web app built with Claude AI
+  - workflow tracked in \_prompts.txt
 
 ## REVIEW data modeling
 
