@@ -116,7 +116,7 @@
 ## Watch out
 
 - https://www.linkedin.com/posts/lilian-dammann_brought-to-you-by-the-people-from-cambridge-share-7510590001143975936-z6Lg
-  - Brought to you by the people from Cambridge Analytica
+  - Makers of MUSE: Brought to you by the people from Cambridge Analytica
 - https://lnkd.in/p/gV3Apcr7
   - AI is going to kill us all
 - [we were warned by the Ancient Africans](https://m.jht1493.net/johnhenrythompson/heros/professor-john-fray/thoth.html)
