@@ -13,6 +13,7 @@
 - [99-HO-States](https://github.com/molab-itp/99-HO-States)
   - SwiftUI and React web app built with Claude AI
   - workflow tracked in \_prompts.txt
+  - HO-States-Users: transition/test using Supabase as backend as alternative to Firebase
 
 ## REVIEW data modeling
 
@@ -108,4 +109,13 @@
 ## NYU Entrepreneur Centers
 
 - https://nyusternberkleycenter.com
+  - The Berkley Center for Entrepreneurship
 - https://entrepreneur.nyu.edu
+  - NYU Leslie Entrepreneurial Institute
+
+## Watch out
+
+- https://www.linkedin.com/posts/lilian-dammann_brought-to-you-by-the-people-from-cambridge-share-7510590001143975936-z6Lg
+  - Brought to you by the people from Cambridge Analytica
+- https://lnkd.in/p/gV3Apcr7
+  - AI is going to kill us all
