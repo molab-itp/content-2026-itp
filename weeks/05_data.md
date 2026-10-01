@@ -31,7 +31,7 @@
   - shows how to display vibration information in two formats: a needle and a line graph
   - NOTE: vintage ObservableObject in code, updated in class example
 
-## Running Example App Your Device
+## Running Example App Your on Device
 
 - [05-BubbleLevel](https://github.com/molab-itp/05-BubbleLevel)
 - [05-Seismometer](https://github.com/molab-itp/05-Seismometer)
@@ -101,3 +101,8 @@
 
 - https://developer.apple.com/swift-student-challenge/
   - offered yearly, starts feb 2027
+
+## NYU Entrepreneur Centers
+
+- https://nyusternberkleycenter.com
+- https://entrepreneur.nyu.edu
