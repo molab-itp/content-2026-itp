@@ -13,7 +13,7 @@
 - [99-HO-States](https://github.com/molab-itp/99-HO-States)
   - SwiftUI and React web app built with Claude AI
   - workflow tracked in \_prompts.txt
-  - HO-States-Users: transition/test using Supabase as backend as alternative to Firebase
+  - HO-States-Users: explore using Supabase as backend as alternative to Firebase
 
 ## REVIEW data modeling
 
