@@ -69,6 +69,9 @@ How to Make a Synth App for iOS with AudioKit | 100 Lines of Code
 
 https://github.com/NickCulbertson/100-Lines-of-Code-AudioKit-Examples
 >> Disable DunneSamplerExample
+// NavigationLink("6. Dunne Sampler Example", destination: DunneSamplerView())
+  remove Dunne ... package
+>> Check out Sequencer
 >> Check out AppleSamplerExample
 ```
 
@@ -116,18 +119,6 @@ The Art of Lotte Reiniger parte 1
 
 https://www.youtube.com/watch?v=poq0bf6M8Z8
 Cinderella (Aschenputtel) —Lotte Reiniger, Karim Al-Zand
-
-```
-
-### User Interface service(s)
-
-- [createwithplay.com](https://createwithplay.com/)
-
-```
-
-## createwithplay
-
-https://createwithplay.com/
 
 ```
 
