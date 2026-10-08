@@ -7,8 +7,13 @@
 - review homework
 - break
 - App updates:
-  - MoGallery
-  - HO-States - USnA Heads
+- [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
+  - share your iOS photos using Google Firebase
+- [99-HO-States](https://github.com/molab-itp/99-HO-States)
+  - SwiftUI and React web app built with Claude AI
+  - https://github.com/molab-itp/99-HO-States/tree/main/v2/HO-States-US
+  - https://github.com/molab-itp/99-HO-States/tree/main/v05
+  - https://github.com/molab-itp/99-HO-States/tree/main/v06
 - review demos
 
 ## SwiftUI Demos
