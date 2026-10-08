@@ -145,6 +145,7 @@ Download and verify the sample works before investing your time in further resea
 
 - [WWDC sample code 2026](https://developer.apple.com/documentation/samplecode//)
   - scroll down for prior years
+  - [AVSpeechSynthesizer text-to-speech](https://github.com/molab-itp/content-2026-ima/wiki/13%E2%80%90Siksaka#week-4)
   - AVCam: Building a camera app
 
 ## Homework Week06
@@ -156,3 +157,4 @@ Download and verify the sample works before investing your time in further resea
   - [wiki home page week06](https://github.com/molab-itp/content-2026-itp/wiki#week-06-homework)
   - update your wiki page with your
     - progress | problems | plans | questions
+    - can give summary in wiki and details in your blog
