@@ -6,6 +6,9 @@
 
 - review homework
 - break
+- App updates:
+  - MoGallery
+  - HO-States - USnA Heads
 - review demos
 
 ## SwiftUI Demos
@@ -45,9 +48,11 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 ## JSON saving and loading
 
 - [06-ImageEditDemoJSON](https://github.com/molab-itp/06-ImageEditDemoJSON)
-  - [use-codable-protocol-in-swift](https://www.kodeco.com/books/swift-cookbook/v1.0/chapters/4-use-codable-protocol-in-swift)
+  - https://www.hackingwithswift.com/swift/4.0/codable
+  - https://www.hackingwithswift.com/articles/119/codable-cheat-sheet
   - Generic functions in SaveLoadJSON.swift
   - Examine JSON file using Terminal App
+  - or Download Container from Xcode Devices & Simulators Window
 
 ## Evaluating open source resources
 
