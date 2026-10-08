@@ -25,10 +25,8 @@ Examples of using data, typically stored as JSON, to describe the navigational l
   - renaming and remixing Xcode project | recommended steps
   - [06-Router](https://github.com/molab-itp/06-Router)
     - Replaces NavigationView with Router @Observable class PageModel
-
 - explore Router used for simple game
   - [06-GuessTeacher](https://github.com/molab-itp/06-GuessTeacher)
-
 - build BasicNav
   - from Build from Page9 [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
   - add [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
@@ -37,11 +35,8 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 ## Saving Data Demos
 
 - [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
-
 - [06-ImageEditDemoJSON](https://github.com/molab-itp/06-ImageEditDemoJSON/)
-
 - [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
-
 - [06-Voice-Recorder](https://github.com/molab-itp/06-Voice-Recorder)
   - [source repo](https://github.com/pinlunhuang/Voice-Recorder)
 - [10-SpeakUp](https://github.com/molab-itp/10-SpeakUp.git)
