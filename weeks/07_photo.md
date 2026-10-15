@@ -58,7 +58,7 @@
   - you can base it on one of the resources presented in class, adding your own twist
 - create a Week07 folder for your project and add link to it here:
   - [wiki home page week07](https://github.com/molab-itp/content-2026-itp/wiki#week-07-homework)
-  - update your wiki page with your
+  - update your wiki page with your weekly
     - progress | problems | plans | questions
 - Part 3: research final project
   - explore WWDC videos and sample code
