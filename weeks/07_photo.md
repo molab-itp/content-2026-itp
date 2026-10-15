@@ -19,7 +19,7 @@
   - [] added jht9629-nyu as collab on your repo
   - [] uploaded at least one photo in MoGallery TestFlight App
   - [] able to build and run example apps own iPhone
-  - [] installed Xcode 26
+  - [] installed Xcode 27
   - [] watched at least one WWDC video
 
 ## review homework
