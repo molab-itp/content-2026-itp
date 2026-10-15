@@ -60,7 +60,9 @@
   - [wiki home page week07](https://github.com/molab-itp/content-2026-itp/wiki#week-07-homework)
   - update your wiki page with your
     - progress | problems | plans | questions
-- Part 3: research final project - explore WWDC videos and sample code - dream: what's possible only on the phone?
+- Part 3: research final project
+  - explore WWDC videos and sample code
+  - dream: what's possible only on the phone?
 
 <!-- ### Github .gitignore file
 
