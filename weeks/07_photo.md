@@ -6,7 +6,7 @@
 
 - review homework
 - questions
-- summarize your challenges (and progress) on your wiki page
+- summarize your progress (and challenges) on your wiki page
 - feedback
 - break
 - photo library access
