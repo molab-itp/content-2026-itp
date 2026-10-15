@@ -7,11 +7,31 @@
 - review homework
 - questions
 - summarize your progress (and challenges) on your wiki page
-- feedback
 - break
+- TestFlight App updates
 - photo library access
 
-### Demo Apps
+## Midterm checklist
+
+- Add this checklist to your class repo README.md
+- Midterm checklist
+  - [] weekly description of homework progress/challenges in your wiki page
+  - [] added jht9629-nyu as collab on your repo
+  - [] uploaded at least one photo in MoGallery TestFlight App
+  - [] able to build and run example apps own iPhone
+  - [] installed Xcode 26
+  - [] watched at least one WWDC video
+
+## review homework
+
+- pair up to review homework
+- take turns: reviewer + reviewee
+- add reviewer as collab on your repo
+- reviewer adds comments in your code
+  - call out anything new or noteworthy
+  - discuss homework: question/suggestions
+
+## Demo Apps
 
 - [07-Instafilter](https://github.com/molab-itp/07-Instafilter)
   - A photo manipulation program using Core Image filters
@@ -23,7 +43,7 @@
   - Face Mesh with ARKit and SwiftUI
   - using legacy api via UIViewControllerRepresentable
 
-### Resources
+## Resources
 
 - [PhotosPicker Apple Sample Code](https://developer.apple.com/documentation/photokit/bringing-photos-picker-to-your-swiftui-app)
   - click on pencil to edit profile pict
@@ -33,7 +53,7 @@
 - [sharing-swiftui-state-with-observable](https://www.hackingwithswift.com/books/ios-swiftui/sharing-swiftui-state-with-observable)
 - [adding-codable-conformance-to-an-observable-class](https://www.hackingwithswift.com/books/ios-swiftui/adding-codable-conformance-to-an-observable-class)
 
-#### Legacy api's - prior to iOS 17
+### Legacy api's - prior to iOS 17
 
 - [What’s the difference between @ObservedObject, @State, and @EnvironmentObject?](https://www.hackingwithswift.com/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject)
 - [managing-model-data-in-your-app - apple dev doc](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
@@ -64,7 +84,7 @@
   - explore WWDC videos and sample code
   - dream: what's possible only on the phone?
 
-<!-- ### Github .gitignore file
+<!-- ## Github .gitignore file
 
 ```
 # How to establish global .gitignore file for github.com accouint
