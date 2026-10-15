@@ -136,6 +136,7 @@ Cinderella (Aschenputtel) —Lotte Reiniger, Karim Al-Zand
   "Teach users about space history with scroll views"
   "How can we compose smaller views into larger ones to help keep our project organized?"
   - [source repo sub directory](https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project8)
+  - [extracted example jht9629-nyu/Moonshot](https://github.com/jht9629-nyu/Moonshot.git)
 - [Wiggles 🐶 app](https://github.com/molab-itp/06-Wiggles-iOS)
   "Beautiful Puppy adoption app built to Demonstrate the use of SwiftUI and MVVM Architecture."
   - [source repo](https://github.com/sameersyd/Wiggles-iOS)
