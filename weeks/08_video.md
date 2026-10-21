@@ -9,42 +9,54 @@
 - video app demo
 - questions
 
-## Resources
-
-- [essential-swift-in-one-hour](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour)
-- [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0)
+<!-- ## Resources -->
+<!-- - [essential-swift-in-one-hour](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour) -->
+<!-- - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0) -->
 
 ## deconstruct sample apps
 
 - in class exercise
-- clone example code
+- decode sample code
+<!-- - clone example code
 - create a branch with your name
 - analyze add your comments
-- document what you don't know
+- document what you don't know -->
 
-- https://developer.apple.com/documentation/webkit/webview-swift.struct
-  - A view that displays some web content. requires iOS 26
+- [07-FaceMeshUI](https://github.com/molab-itp/07-FaceMeshUI)
+  - use ARKit to show ARFaceTrackingConfiguration
+  - built with AI for modern APIs
+- [08-CameraRecorder](https://github.com/molab-itp/08-CameraRecorder)
+  - apply core image filters to live video stream from camera
+  - record button to save video to Photo library
+  - built with AI for modern APIs
+- [08-FilterTheWorld](https://github.com/molab-itp/08-FilterTheWorld)
+  - Building a Camera App With SwiftUI and Combine
+  - from [www.kodeco.com](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine)
+  - uses older APIs
+
+## WebView
+
 - https://developer.apple.com/videos/play/wwdc2025/231/
   - Meet WebKit for SwiftUI
+- https://developer.apple.com/documentation/webkit/webview-swift.struct
+  - A view that displays some web content
+  - requires iOS 26
 - [how-to-embed-web-content-using-webview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-embed-web-content-using-webview)
   - How to embed web content using WebView
 - [08-WebPlayer](https://github.com/molab-itp/08-WebPlayer)
   - use UIViewRepresentable to show WKWebView for web content
-- [07-FaceMeshUI](https://github.com/molab-itp/07-FaceMeshUI)
-  - use ARKit to show ARFaceTrackingConfiguration
+  - works on older iOS
+- [Patent No.: US 8,700,804 B1](https://jht1493-gmail.github.io/jht-site/aa/archived/patent-8700804.pdf)
+  - A mobile application platform enables a user of a mobile device to manage Personalized Offline Web Applications (POW Apps)
+  - https://m.jht1493.net/johnhenrythompson/home/bio.html
+
+## Other examples
+
 - [07-Instafilter](https://github.com/molab-itp/07-Instafilter)
   - analyzing and adjusting filter intensity
   - uses PhotosPicker and ShareLink iOS 16+
   - repo branch ImagePicker:
     - uses ImagePicker: UIViewControllerRepresentable to access UIKit PHPickerViewController
-- [08-CameraRecorder](https://github.com/molab-itp/08-CameraRecorder)
-  - apply core image filters to live video stream from camera
-  - record button to save video to Photo library
-  - minminal ObservableObject Model
-  - no need for Combine!
-- [08-FilterTheWorld](https://github.com/molab-itp/08-FilterTheWorld)
-  - Building a Camera App With SwiftUI and Combine
-  - from [www.kodeco.com](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine)
 - [DICE-App](https://github.com/molab-itp/99-DICE-App-Prep)
   - DICE: a platform for exploring art, learning, and computer science.
   - Uses old Interface Builder UI framework, and Objective-C
@@ -77,7 +89,6 @@
   - Augmented Hacking ITPG-GT 2356 1
   - [git repo](https://github.com/augmentedhacking)
     - https://github.com/augmentedhacking/ar-scene-starter
-    <!-- - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0) -->
 
 ## hackingwithswift.com
 
@@ -94,5 +105,6 @@
   - add a link to your project here
 - create a Week08 folder for your project and add link to it here:
 - [wiki home page week08](https://github.com/molab-itp/content-2026-itp/wiki#week-08-homework)
-  - update your wiki page with your
-    - progress | problems | plans | questions
+- update your wiki page with your
+  - progress | problems | plans | questions
+  - your Final Project research to date
