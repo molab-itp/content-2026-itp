@@ -63,7 +63,7 @@
 
 ## Final Project Inspiration and Resources
 
-- Review Final Project Inspiration from previous weeks
+- [Review Final Project Inspiration from previous weeks](https://github.com/molab-itp/content-2026-itp/blob/main/weeks/07_photo.md#final-project-inspiration-and-resources)
 
 ## WWDC Video Tutorials
 
