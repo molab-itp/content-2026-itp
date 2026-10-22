@@ -103,8 +103,8 @@
 - Part 2: create a video manipulation app
   - you can base it on one of the resources presented in class, adding your own twist
   - add a link to your project here
-- create a Week08 folder for your project and add link to it here:
-- [wiki home page week08](https://github.com/molab-itp/content-2026-itp/wiki#week-08-homework)
+  - create a Week08 folder for your project and add link to it here:
+  - [wiki home page week08](https://github.com/molab-itp/content-2026-itp/wiki#week-08-homework)
 - update your wiki page with your
   - progress | problems | plans | questions
   - your Final Project research to date
