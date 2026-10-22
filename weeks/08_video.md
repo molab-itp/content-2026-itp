@@ -5,8 +5,12 @@
 ## Plan
 
 - [midterm checklist addition:](https://github.com/molab-itp/content-2026-itp/blob/main/weeks/07_photo.md#midterm-checklist)
+
+```
   - [ ] Upload profile photo to HOS-Lobby app
-  - refresh you class repo
+```
+
+- refresh your class repo
 - review homework
 - summarize your challenges (and progress) on your wiki page
 - video app demo
