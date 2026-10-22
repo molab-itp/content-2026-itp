@@ -10,6 +10,7 @@
   - [ ] Upload profile photo to HOS-Lobby app
 ```
 
+- https://github.com/molab-itp/99-HO-States/tree/main/v06
 - refresh your class repo
 - review homework
 - summarize your challenges (and progress) on your wiki page
