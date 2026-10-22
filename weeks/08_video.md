@@ -4,6 +4,9 @@
 
 ## Plan
 
+- [midterm checklist addition:](https://github.com/molab-itp/content-2026-itp/blob/main/weeks/07_photo.md#midterm-checklist)
+  - [ ] Upload profile photo to HOS-Lobby app
+  - refresh you class repo
 - review homework
 - summarize your challenges (and progress) on your wiki page
 - video app demo
@@ -107,4 +110,4 @@
   - [wiki home page week08](https://github.com/molab-itp/content-2026-itp/wiki#week-08-homework)
 - update your wiki page with your
   - progress | problems | plans | questions
-  - your Final Project research to date
+  - notes on Final Project research to date
