@@ -2,6 +2,15 @@
 
 ## [[Previous](./08_video.md)] [[Next](./10_multi.md)]
 
+## COURSE OBJECTIVES -- reminder --
+
+- At the completion of this course, the student should be able to:
+- use the Swift language to create iOS apps that use native hardware capabilities
+- research Apple developer documentation and sample code to use Apple developer frameworks effectively
+- research open source libraries to rapidly add features to native iOS apps
+- become familiar with the Xcode development workflow
+- [evaluation](https://github.com/molab-itp/content-2026-itp#evaluation)
+
 ## Plan
 
 - review homework
@@ -113,18 +122,18 @@
 - Part 1:
   - Prepare first draft of your final project proposal. Ok to entertain more than one initial concept.
 - Part 2:
-  - Option 1:
-    - setup a firebase project and build one of the firebase tutorial apps
-    - use our class repo to get the appropriate Firebase SDK version for the tutorial
-      - FireCards
-        - https://github.com/molab-itp/09-FireCards
-      - MakeItSo
-        - https://github.com/molab-itp/09-MakeItSo
-  - Option 2:
-    - customize the **MoLobby** app in
-      - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
-      - with your own multi-user experience twist
-      - fork the repo and create a branch labeled with your name
+  - **Option 1:**
+  - setup a firebase project and build one of the firebase tutorial apps
+  - use our class repo to get the appropriate Firebase SDK version for the tutorial
+    - FireCards
+      - https://github.com/molab-itp/09-FireCards
+    - MakeItSo
+      - https://github.com/molab-itp/09-MakeItSo
+  - **Option 2:**
+  - customize the **MoLobby** app in
+    - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
+    - with your own multi-user experience twist
+    - fork the repo and create a branch labeled with your name
 - create a Week09 folder for your project and add link to it here
 - [wiki home page week09](https://github.com/molab-itp/content-2026-itp/wiki#week-09-homework)
   - update your wiki page with your
