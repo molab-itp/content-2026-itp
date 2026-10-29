@@ -13,7 +13,7 @@
 
 ## Plan
 
-- dicussion
+- discussion
   - **what has iphone apps enabled ?**
 - review homework
 - questions
