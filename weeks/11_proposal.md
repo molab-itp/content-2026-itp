@@ -5,7 +5,6 @@
 ## Plan
 
 - Pair up to update your final project proposal in your wiki page.
-
 - report
   - progress | problems| plans | questions
 
@@ -14,30 +13,23 @@
 - [Chris_Lattner](https://en.wikipedia.org/wiki/Chris_Lattner)
   - key person behind the creation and evolution of the Swift language
   - current project: https://www.modular.com/
-
 - [vapor - Swift, but on a server](https://vapor.codes/)
-
 - [Ignite - static site builder for Swift developers](https://github.com/twostraws/Ignite)
   - [ignitesamples](https://ignitesamples.hackingwithswift.com/)
-
 - [Build native apps for iPhone and Android with Skip](https://skip.tools/)
 
 ## Apple Resources Video
 
 - [WWDC24: SwiftUI essentials | Apple](https://www.youtube.com/watch?v=HyQgpxX__-A)
-
 - [WWDC24: A Swift Tour: Explore Swift’s features and design | Apple](https://www.youtube.com/watch?v=boiLzazJ9j4)
-
 - [WWDC24: Xcode essentials | Apple](https://www.youtube.com/watch?v=EN7-6Oj7cL0)
 
 ## Resources
 
 - [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
   - refactor using AI, checkout the branches
-
 - [09-AnonLobbyCloud](https://github.com/molab-itp/09-AnonLobbyCloud.git)
   - Anonymous Lobby for Firebase
-
 - [99-Flag-Flow](https://github.com/molab-itp/99-Flag-Flow.git)
   - exploration flow examples
   - EarthFlags - Origin Story
@@ -46,17 +38,14 @@
 
 - a-repos/HitTestApp
   -- SwiftUI Scenekit hit testing example.
-
 - a-repos/iOS3DModelViewer
   -- Integrating SceneKit coupled with a storyboard into SwiftUI
-
 - a-repos/SwiftGlobe
   -- An interactive 3D globe in SceneKit for iOS, watchOS, tvOS, and MacOS X.
 
 ### EarthFlags - Origin Story
 
 - EarthFlags/EarthFlags.xcodeproj
-
 - exploration process and workflow
   - Swift workflow in other environs
     - mobile, desktop, server
@@ -72,9 +61,7 @@
   - how will you track your project?
     - homework folder | new repo
     - note how and put a link in your wiki page
-
 - be prepared to present and discuss
-
 - [wiki home page week11](https://github.com/molab-itp/content-2026-itp/wiki#week-11-homework)
   - update your wiki page with your
     - progress | problems | plans | questions
