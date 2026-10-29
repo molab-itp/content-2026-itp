@@ -13,18 +13,20 @@
 
 ## Plan
 
+- dicussion
+  - **what has iphone apps enabled ?**
 - review homework
 - questions
 - summarize your challenges (and progress) on your wiki page
 - saving data local on the device and remotely in the cloud
 - Testflight update of MoGallery confirm - post an image
 
-## Review - tracking time
+## Sample Apps
+
+**tracking time**
 
 - [Slide Show Delay](https://github.com/molab-itp/09-SlideShowDelay)
   - slide show with slider for delay
-
-## Demo Apps
 
 **Using MapKit**
 
