@@ -21,9 +21,12 @@
   - https://education.github.com/pack?utm_source=chatgpt.com
 - cursor ai
   - https://cursor.com
+- AI Disrupted My YouTube Business. So I Got a Job.
+  - https://www.youtube.com/watch?v=AQVyHXZWILo
+  - 05:11 Jun 4, 2026
 - Shipaton ($700K in prizes), iOS 27 Breaking Changes, New Foundation Models Utilities & More
-  - 11:05 Sean Allen Jul 16, 2026
   - https://www.youtube.com/watch?v=Q3tPGesg_e8
+  - 11:05 Sean Allen Jul 16, 2026
 - Build and ship native Swift apps with AI
   - https://bitrig.com/
 - Swift News is a YouTube show from Sean Allen where he shares the latest news... of Swift and iOS Development
