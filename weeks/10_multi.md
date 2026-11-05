@@ -76,7 +76,8 @@
   - describe your final project
   - include week by week work plan
 - create a Week10 folder for your project
-- OR a create public github repo and add link to it here:
+- OR a create github private or public repo and add link to it on the wiki home work page
+- if you create a private repo give Professor and at least one other student access
 - [wiki home page week10](https://github.com/molab-itp/content-2026-itp/wiki#week-10-homework)
   - update your wiki page with your
     - progress | problems | plans | questions
