@@ -12,21 +12,22 @@
 ## AI Coding Landscape
 
 - claude
-  https://www.youtube.com/watch?v=6eBSHbLKuN0&list=WL&index=14
-  Mastering Claude Code in 30 minutes
+  - https://www.youtube.com/watch?v=6eBSHbLKuN0&list=WL&index=14
+  - Mastering Claude Code in 30 minutes
+  - 1,699,522 views Streamed live on May 22, 2025
 - Xcode ai chat
-  https://developer.apple.com/documentation/xcode/writing-code-with-intelligence-in-xcode
+  - https://developer.apple.com/documentation/xcode/writing-code-with-intelligence-in-xcode
 - GitHub Copilot in VS Code
-  https://education.github.com/pack?utm_source=chatgpt.com
+  - https://education.github.com/pack?utm_source=chatgpt.com
 - cursor ai
-  https://cursor.com
+  - https://cursor.com
 - Shipaton ($700K in prizes), iOS 27 Breaking Changes, New Foundation Models Utilities & More
-  11:05 Sean Allen Jul 16, 2026  
-  https://www.youtube.com/watch?v=Q3tPGesg_e8
+  - 11:05 Sean Allen Jul 16, 2026
+  - https://www.youtube.com/watch?v=Q3tPGesg_e8
 - Build and ship native Swift apps with AI
-  https://bitrig.com/
+  - https://bitrig.com/
 - Swift News is a YouTube show from Sean Allen where he shares the latest news... of Swift and iOS Development
-  https://github.com/SAllen0400/swift-news
+  - https://github.com/SAllen0400/swift-news
 
 ## Refactoring Exercise
 
