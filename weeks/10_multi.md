@@ -34,7 +34,7 @@
 - Swift News is a YouTube show from Sean Allen where he shares the latest news... of Swift and iOS Development
   - https://github.com/SAllen0400/swift-news
 - How much AI/SaaS can you get for free
-  - what's you monthly AI spend
+  - what's your monthly AI spend
 
 ## Code Exploration Exercise
 
