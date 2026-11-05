@@ -34,11 +34,10 @@
 - Swift News is a YouTube show from Sean Allen where he shares the latest news... of Swift and iOS Development
   - https://github.com/SAllen0400/swift-news
 
-## Refactoring Exercise
+## Code Exploration Exercise
 
 - [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
-  - for repo, select
-- manual refactor
+  - fork and explore with AI
 
 ## MoGallery App
 
