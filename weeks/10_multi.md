@@ -12,7 +12,7 @@
 ## AI Coding Landscape
 
 - claude
-  - https://www.youtube.com/watch?v=6eBSHbLKuN0&list=WL&index=14
+  - https://www.youtube.com/watch?v=6eBSHbLKuN0
   - Mastering Claude Code in 30 minutes
   - 1,699,522 views Streamed live on May 22, 2025
 - Xcode ai chat
