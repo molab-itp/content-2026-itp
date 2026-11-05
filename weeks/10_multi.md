@@ -18,9 +18,11 @@
 - Xcode ai chat
   - https://developer.apple.com/documentation/xcode/writing-code-with-intelligence-in-xcode
 - GitHub Copilot in VS Code
-  - https://education.github.com/pack?utm_source=chatgpt.com
+  - https://www.nyu.edu/life/information-technology/artificial-intelligence-at-nyu/generative-ai-services.html
+  <!-- - https://education.github.com/pack?utm_source=chatgpt.com -->
 - cursor ai
   - https://cursor.com
+  - SpaceX completed its acquisition of Cursor in August 2026, in a reported $60 billion all-stock transaction.
 - AI Disrupted My YouTube Business. So I Got a Job.
   - https://www.youtube.com/watch?v=AQVyHXZWILo
   - 05:11 Jun 4, 2026
