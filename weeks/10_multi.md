@@ -38,6 +38,7 @@
 
 - [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
   - fork and explore with AI
+  - use branches to isolate explorations
 
 ## MoGallery App
 
