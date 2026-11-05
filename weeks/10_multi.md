@@ -9,23 +9,30 @@
 - summarize your challenges (and progress) on your wiki page
 - Final Project Discussion
 
-## Refactoring Exercise
+## AI Coding Landscape
 
-- [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
-  - for repo, select
-- manual refactor
-
-## AI Coding Options
-
-- GitHub Copilot in VS Code
-  https://education.github.com/pack?utm_source=chatgpt.com
-- cursor ai
-  https://cursor.com
 - claude
   https://www.youtube.com/watch?v=6eBSHbLKuN0&list=WL&index=14
   Mastering Claude Code in 30 minutes
 - Xcode ai chat
   https://developer.apple.com/documentation/xcode/writing-code-with-intelligence-in-xcode
+- GitHub Copilot in VS Code
+  https://education.github.com/pack?utm_source=chatgpt.com
+- cursor ai
+  https://cursor.com
+- Shipaton ($700K in prizes), iOS 27 Breaking Changes, New Foundation Models Utilities & More
+  11:05 Sean Allen Jul 16, 2026  
+  https://www.youtube.com/watch?v=Q3tPGesg_e8
+- Build and ship native Swift apps with AI
+  https://bitrig.com/
+- Swift News is a YouTube show from Sean Allen where he shares the latest news... of Swift and iOS Development
+  https://github.com/SAllen0400/swift-news
+
+## Refactoring Exercise
+
+- [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
+  - for repo, select
+- manual refactor
 
 ## MoGallery App
 
@@ -35,9 +42,6 @@
   - [MoLobby](https://github.com/molab-itp/98-MoGallery-Private/tree/main/MoLobby)
     - MoLobby is the google signon code extracted from MoGallery
     - Use MoLobby project for Lobby only functions
-  - [MoLobbyAnon](https://github.com/molab-itp/98-MoGallery-Private/tree/main/MoLobbyAnon)
-    - MoLobbyAnon is MoLobby further simplified to anonymous signon
-    - Shows use of tab view combined with navigation view
 - [98-MoGallery](https://github.com/molab-itp/98-MoGallery)
   - public repo, no GoogleService-Info.plist
   - must create your own [firebase project - a container for you app](https://firebase.google.com/)
