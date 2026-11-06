@@ -83,6 +83,7 @@
 - write your final project proposal on your wiki page
   - describe your final project
   - include week by week work plan
+  - pair up to give get feddback on you final project proposal
 - create a Week10 folder for your project
 - OR a create github private or public repo and add link to it on the wiki home work page
 - if you create a private repo give Professor and at least one other student access
